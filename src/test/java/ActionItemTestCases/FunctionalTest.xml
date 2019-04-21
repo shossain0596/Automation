@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Test Suite" parallel="none" >
+    <test name="Functional Testing">
+
+        <classes>
+
+            <class name="ActionItemTestCases.USPS" />
+
+            <class name="ActionItemTestCases.WeightWatchers" />
+
+            <class name="ActionItemTestCases.Yahoo" />
+
+        </classes>
+    </test>
+
+</suite>
+
+

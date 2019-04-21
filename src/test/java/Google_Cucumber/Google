@@ -1,0 +1,10 @@
+Feature: Google Test Scenarios
+
+  Scenario: TC1 Search for a Keyword in Google Home Page and Capture Result
+    Given I navigate to google.com
+    When I verify my Google Home title states as Google
+    Then I enter a keyword in my Search field
+    And I click on search Icon
+    When I verify the Google Search
+    Then I capture the Search Result
+
