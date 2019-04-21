@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="092f9fa4-61bf-42f6-b251-09cd6c43bb9a" name="Default Changelist" comment="" />
+    <list default="true" id="092f9fa4-61bf-42f6-b251-09cd6c43bb9a" name="Default Changelist" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ActionItemTestCases/FunctionalTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ActionItemTestCases/FunctionalTest.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/ActionItemTestCases/CrossBrowser.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -25,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/ReusableMethods_Loggers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1342">
-              <caret line="103" column="31" lean-forward="true" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+            <state relative-caret-position="1936">
+              <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -34,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/Abstract_Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
+            <state relative-caret-position="858">
               <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -43,14 +47,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ActionItemTestCases/Yahoo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ActionItemTestCases/FunctionalTest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -63,6 +76,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,7 +104,6 @@
         <option value="$PROJECT_DIR$/src/test/java/ActionItemTestCases/smoke_test.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ActionItemTestCases/MlCalc.java" />
         <option value="$PROJECT_DIR$/src/test/java/InClassAI/ExpressCopy.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ActionItemTestCases/FunctionalTest.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ActionItemTestCases/USPS.java" />
         <option value="$PROJECT_DIR$/src/test/java/ActionItemTestCases/Yahoo.java" />
         <option value="$PROJECT_DIR$/src/test/java/ActionItemTestCases/CrossBrowser.xml" />
@@ -101,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/test/java/Google_Cucumber/Google" />
         <option value="$PROJECT_DIR$/src/test/java/Google_Cucumber/googleTestScenarios.java" />
         <option value="$PROJECT_DIR$/src/test/java/InClassAI/PrcticeKat.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ActionItemTestCases/FunctionalTest.xml" />
       </list>
     </option>
   </component>
@@ -111,7 +127,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -123,81 +139,44 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Report_Folder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Reusable_Classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ActionItemTestCases" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Maven_Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="InClassAI" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,11 +324,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PrcticeKat" />
+      <item itemvalue="JUnit.GoogleTestRunner" />
       <item itemvalue="TestNG.C:/Users/Sha/Desktop/Maven/Maven_Selenium/src/test/java/ActionItemTestCases/FunctionalTest.xml" />
       <item itemvalue="TestNG.MlCalc.tc5_MlCalc" />
       <item itemvalue="TestNG.C:/Users/Sha/Desktop/Maven/Maven_Selenium/src/test/java/ActionItemTestCases/CrossBrowser.xml" />
-      <item itemvalue="JUnit.GoogleTestRunner" />
-      <item itemvalue="Application.PrcticeKat" />
     </list>
     <recent_temporary>
       <list>
@@ -407,7 +386,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -415,7 +394,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24291497" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24048583" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -555,13 +534,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReportqe12bdsc0h85.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport1jyb016fds2eo.html" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ActionItemTestCases/FunctionalTest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="897">
@@ -571,23 +543,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/google.features" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/g.feature" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.feature">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/google.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/scratch.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/google.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/scratch.feature" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Google_Cucumber/Google">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -643,13 +601,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/InClassAI/PrcticeKat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/InClassAI/PrcticeKat.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ActionItemTestCases/WeightWatchers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -657,9 +609,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ActionItemTestCases/CrossBrowser.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/ReusableMethods_Loggers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1936">
+          <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/Abstract_Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="858">
           <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -667,27 +633,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ActionItemTestCases/CrossBrowser.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Reusable_Classes/ReusableMethods_Loggers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="103" column="31" lean-forward="true" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ActionItemTestCases/Yahoo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ActionItemTestCases/FunctionalTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
         </state>
       </provider>
     </entry>

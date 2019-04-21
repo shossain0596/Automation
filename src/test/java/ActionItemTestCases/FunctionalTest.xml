@@ -9,7 +9,7 @@
 
             <class name="ActionItemTestCases.WeightWatchers" />
 
-            <class name="ActionItemTestCases.Yahoo" />
+            <class name="ActionItemTestCases.WeightWatchers" />
 
         </classes>
     </test>
